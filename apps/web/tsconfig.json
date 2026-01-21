@@ -1,0 +1,8 @@
+{
+  "extends": "@shadcnforge/config/tsconfig/nextjs.json",
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
