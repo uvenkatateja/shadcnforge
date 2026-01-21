@@ -124,7 +124,7 @@ vercel --prod
 
 ```env
 DATABASE_URL
-Value: postgresql://neondb_owner:npg_dOiIU7W4jrye@ep-aged-dawn-a1ctikl2-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require
+Value: (your Neon database connection string)
 Environment: Production, Preview, Development
 
 BLOB_READ_WRITE_TOKEN
